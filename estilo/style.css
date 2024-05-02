@@ -84,9 +84,10 @@ div#formulario > p{
     width: calc(100% - 44px);
     height: 100%;
     font-size: 1em;
-    border: 1px solid #5f2c82;
+    border: 2px solid #5f2c82;
     border-radius: 8px;
-    transform: translateY(-13px);
+    padding: 4px;
+    transform: translateY(-11px);
 
 }
 
