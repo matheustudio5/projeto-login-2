@@ -91,6 +91,10 @@ div#formulario > p{
 
 }
 
+.campo > input:focus{
+    background-color: white;
+}
+
 .campo > label{
     display: none;
 }
